@@ -53,8 +53,3 @@ To get started with the Todo app, you'll need to have Flutter installed on your 
 For support, email HatemElbadw10@gmail.com,
 
 
-## Used By
-
-This project is used by the following companies:
-
-- 8Worx 
